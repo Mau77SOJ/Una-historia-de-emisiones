@@ -44,8 +44,6 @@ Este proyecto transforma datos de emisiones de CO₂ en una narrativa visual com
 - Métrica de "Intensidad de Carbón"
 - Recomendaciones de descarbonización
 
-## Instalación
-
 ### Prerrequisitos
 - Python 3.8 o superior
 - pip
@@ -106,3 +104,4 @@ Los datos se cargan directamente desde el repositorio de GitHub de Our World in 
 
 
 - **Datos faltantes**: Algunos países tienen datos incompletos o desactualizados
+
